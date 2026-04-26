@@ -1,0 +1,11 @@
+{
+  "name"  : "Minhas Ideias",
+
+  "autor" : "by : Edinaldo Cicero",
+  "data"  : "26/04/2026",
+  
+  "titulo": "O que é pra que server o HTML, CSS e Js",
+  "banner": "images/banpage_1.png",
+  "texto" : "HTML (HyperText Markup Language) → é a estrutura básica da página. Ele define os elementos como títulos, parágrafos, imagens, links e muito mais. Pense nele como o esqueleto do seu diário virtual. \nCSS (Cascading Style Sheets) → é responsável pela aparência. Com ele você define cores, fontes, espaçamentos, posicionamento e até animações. É o que transforma uma página simples em algo bonito e organizado. \nJavaScript (JS) → é a parte dinâmica e interativa. Permite criar ações como cliques em botões, validação de formulários, animações mais avançadas e até aplicações completas que rodam no navegador."
+
+}

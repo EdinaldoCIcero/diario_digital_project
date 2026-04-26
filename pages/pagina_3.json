@@ -1,0 +1,9 @@
+{
+  "name"  : "Minhas Ideias",
+
+  "autor" : "by : Edinaldo Cicero",
+  "data"  : "26/04/2026",
+  
+  "titulo": "O que acontece por trás:",
+  "texto" : "A maioria das IAs usa algo chamado Machine Learning (aprendizado de máquina), que funciona mais ou menos assim:\nRecebe dados\nAnalisa padrões\nAjusta seus “parâmetros” internos\nMelhora com o tempo\n\n E quando você usa:\nDepois de treinada, a IA consegue: \nResponder perguntas \nGerar textos \nReconhecer imagens \nFazer previsões \nEla não “pensa” como um humano — ela calcula probabilidades com base no que aprendeu.\n\nResumo simples:\n\nIA aprende com dados, identifica padrões e usa isso para responder ou tomar decisões."
+}

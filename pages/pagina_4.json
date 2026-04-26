@@ -1,0 +1,10 @@
+{
+  "name"  : "Minhas Ideias",
+
+  "autor" : "by : Edinaldo Cicero",
+  "data"  : "26/04/2026",
+  "banner": "images/sobre_python.png",
+
+  "titulo": "O que é o python :)?",
+  "texto" : "Python é uma linguagem de programação de alto nível, interpretada, de script e de propósito geral. Foi criada por Guido van Rossum e lançada em 1991. \nPython é conhecida por sua sintaxe simples e legível, o que a torna uma excelente escolha para iniciantes em programação. \nEla é amplamente utilizada em diversos campos, como: \ndesenvolvimento web, \nciência de dados, \ninteligência artificial, \nautomação e muito mais."
+}

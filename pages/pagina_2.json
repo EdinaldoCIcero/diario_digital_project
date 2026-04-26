@@ -1,0 +1,10 @@
+{
+  "name"  : "Minhas Ideias",
+
+  "autor" : "by : Edinaldo Cicero",
+  "data"  : "26/04/2026",
+  
+  "titulo": "Como funciona uma Inteligência Artificial (IA):",
+  "banner": "images/sobre_ia.png",
+  "texto" : "Uma IA é um sistema que aprende a reconhecer padrões e tomar decisões com base em dados. Em vez de ser programada com todas as regras, ela “aprende” a partir de exemplos. \nComo ela aprende:\nA IA é treinada com muitos dados. Por exemplo:\nTextos (como livros, sites, etc.)\nImagens\nSons\nDurante esse treinamento, ela começa a identificar padrões.\nExemplo simples:\nSe mostrar milhares de fotos de gatos, ela aprende o que “parece um gato”."
+}
