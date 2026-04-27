@@ -244,8 +244,10 @@ body {
 
 
 
-@media (max-width: 1000px) {
+@media (max-width: 500px) {
   .page {
     height: 95vh;
+    width : 95%;
+    
   }
 }
