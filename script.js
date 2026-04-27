@@ -29,7 +29,7 @@ async function loadPage( page , direction = "next") {
                 <div class="cover_title">
                     
                     <h1>${ data.name }</h1>
-                    <h6>${ data.autor }</h6>
+                    <h5>${ data.autor }</h5>
                   
                 </div>
 
