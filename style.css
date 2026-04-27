@@ -246,8 +246,9 @@ body {
 
 @media (max-width: 500px) {
   .page {
-    height: 95vh;
-    width : 95%;
+    height: 65vh;
+    width : 75%;
+    
     
   }
 }
