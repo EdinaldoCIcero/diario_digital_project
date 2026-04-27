@@ -4,7 +4,7 @@ body {
   display         : flex;
   justify-content : center;
   align-items     : center;
-  height          : 80vh;
+  height          : 100vh;
 
   background-image      : url("images/back_06.jpg");
   background-size       : cover;        /* preenche toda a tela */
@@ -244,8 +244,8 @@ body {
 
 
 
-@media (max-width: 500px) {
+@media (max-width: 1000px) {
   .page {
-    height: 85vh;
+    height: 95vh;
   }
 }
