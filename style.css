@@ -223,7 +223,7 @@ body {
   justify-content : space-between;
   align-items     : center;
   padding-top     : 50px;
-  gap             : 380px;
+  gap             : 200px;
 
 
 }
@@ -243,9 +243,10 @@ body {
 @media (max-width: 500px) {
 
   body {
-    height: auto;
-    align-items: flex-start;
-    padding: 10px;
+    height      : auto;
+    align-items : flex-start;
+    padding     : 10px;
+    
   }
 
   .container {
